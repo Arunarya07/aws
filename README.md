@@ -2,7 +2,7 @@
 scrits for aws
 import json
 
-class studend:
+class student:
 
 pass
 
